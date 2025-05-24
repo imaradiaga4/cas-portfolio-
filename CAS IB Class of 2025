@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Isabella's CAS Portfolio</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f9fb;
+      color: #333;
+    }
+    header {
+      background-color: #164863;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 40px;
+      border-bottom: 1px solid #ccc;
+    }
+    h2 {
+      color: #0f3e63;
+    }
+    .image-gallery img {
+      width: 250px;
+      margin: 10px;
+      border-radius: 10px;
+    }
+    .reflection {
+      max-width: 800px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>My CAS Journey – Isabella Maradiaga</h1>
+    <p>Class of 2025 | American School of Tegucigalpa</p>
+  </header>
+
+  <section>
+    <h2>Activity: Gym & Boxing</h2>
+    <div class="image-gallery">
+      <!-- Placeholder for gym and boxing images -->
+      <img src="IMG_0072.jpeg" alt="Boxing Training">
+      <img src="IMG_0074.jpeg" alt="Gym Session">
+    </div>
+    <div class="reflection">
+      <p>
+        Staying active has always been essential for me, not just for my physical health, but for my mental well-being. Throughout 11th and 12th grade, I committed myself to the gym and boxing training at Alpha Boxing and in my home gym. Every workout session became a form of discipline—waking up early, staying motivated, and pushing past physical limits. Boxing, in particular, helped me build confidence and control under pressure. 
+      </p>
+      <p>
+        I saw real growth—not just in strength, but in character. I learned to handle setbacks, developed resilience, and embraced my body’s capability. These experiences translated to how I tackled school, leadership, and moments of stress. It became a lifestyle. This long-term commitment not only fulfilled my CAS Activity strand—it shaped who I’m becoming.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Creativity: Nature Photography & Marketing for Lutfi Coffee</h2>
+    <div class="image-gallery">
+      <!-- Placeholder for nature photos -->
+      <img src="IMG_6383.jpeg" alt="Sunset Over Water">
+      <img src="IMG_6371.jpeg" alt="Forest Trail">
+    </div>
+    <div class="reflection">
+      <p>
+        I’ve always loved capturing beauty through a lens. My photography started as a personal hobby—documenting sunrises, beaches, forests, and everyday beauty in Honduras. But over time, it grew into a creative outlet that connected me with nature and helped me slow down and appreciate life’s details.
+      </p>
+      <p>
+        Alongside this, I contributed to marketing efforts for Lutfi Coffee, a local coffee shop owned by family friends. I helped create visually appealing social media content using photography and design. It was the first time I applied my creative skills professionally. Through this, I developed confidence in branding and discovered the power of visual storytelling.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Service: The World Food Prize Foundation</h2>
+    <div class="image-gallery">
+      <!-- Placeholder for WFP event photos -->
+      <img src="IMG_3392.jpeg" alt="Zamorano Volunteering">
+      <img src="IMG_9519.jpeg" alt="Global Youth Institute">
+    </div>
+    <div class="reflection">
+      <p>
+        Over the past two years, I’ve had the honor of volunteering with the World Food Prize Foundation. In 2023, I helped organize the Honduras Youth Institute at El Zamorano and later represented my country at the Global Youth Institute in Iowa. The experience was life-changing. I met experts in food security and global development, discussed real-world issues, and realized how science and compassion intersect.
+      </p>
+      <p>
+        This work solidified my passion for biotechnology and sustainability. Volunteering with children in the SHH book initiative and at Breakfast with Santa also reminded me how joy, education, and support can change lives. Through CAS Service, I stepped beyond myself to contribute meaningfully to others.
+      </p>
+    </div>
+  </section>
+
+  <footer style="text-align: center; padding: 20px; background-color: #0f3e63; color: white;">
+    <p>Created by Isabella Maradiaga | IB Class of 2025</p>
+  </footer>
+</body>
+</html>
